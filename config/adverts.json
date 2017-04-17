@@ -1,0 +1,27 @@
+{
+  "UseDebugMessages": false,
+  "Adverts": [
+    {
+      "Text": "Hi! I'm the owner of this server, DaNike!",
+      "RunOnce": true,
+      "Color": [
+        255,
+        255,
+        0
+      ],
+      "Time": "500ms",
+      "Offset": "500ms"
+    },
+    {
+      "Text": "Make sure to read the rules before doing anything else!",
+      "RunOnce": true,
+      "Color": [
+        255,
+        255,
+        0
+      ],
+      "Time": "3s",
+      "Offset": "3s"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+[04/17/17 00:14:01] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:14:01] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:14:01] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:14:01] [Server API] Verbose: 	Mono: False
+[04/17/17 00:14:03] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:14:03] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:15:38] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:15:38] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:15:38] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:15:38] [Server API] Verbose: 	Mono: False
+[04/17/17 00:15:39] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:15:39] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:15:39] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:18:10] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:18:10] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:18:10] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:18:10] [Server API] Verbose: 	Mono: False
+[04/17/17 00:18:11] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:18:11] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:18:11] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:19:37] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:19:37] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:19:37] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:19:37] [Server API] Verbose: 	Mono: False
+[04/17/17 00:19:38] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:19:38] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:19:38] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:29:05] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:29:05] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:29:05] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:29:05] [Server API] Verbose: 	Mono: False
+[04/17/17 00:29:05] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:29:05] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:29:05] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:32:15] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:32:15] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:32:15] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:32:15] [Server API] Verbose: 	Mono: False
+[04/17/17 00:32:15] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:32:15] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:32:15] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:34:27] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:34:27] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:34:27] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:34:27] [Server API] Verbose: 	Mono: False
+[04/17/17 00:34:28] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:34:28] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:34:28] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:38:01] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 00:38:01] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 00:38:01] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 00:38:01] [Server API] Verbose: 	Mono: False
+[04/17/17 00:38:01] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 00:38:01] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 00:38:01] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:06:31] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 01:06:31] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 01:06:31] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 01:06:31] [Server API] Verbose: 	Mono: False
+[04/17/17 01:06:32] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 01:06:32] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:06:32] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:11:48] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 01:11:48] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 01:11:48] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 01:11:48] [Server API] Verbose: 	Mono: False
+[04/17/17 01:11:49] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 01:11:49] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:11:49] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:14:40] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 01:14:40] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 01:14:40] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 01:14:40] [Server API] Verbose: 	Mono: False
+[04/17/17 01:14:40] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 01:14:40] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:14:40] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:16:38] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 01:16:38] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 01:16:38] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 01:16:38] [Server API] Verbose: 	Mono: False
+[04/17/17 01:16:38] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 01:16:38] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 01:16:38] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:25:24] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 02:25:24] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 02:25:24] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 02:25:24] [Server API] Verbose: 	Mono: False
+[04/17/17 02:25:24] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 02:25:24] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:25:24] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:29:24] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 02:29:24] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 02:29:24] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 02:29:24] [Server API] Verbose: 	Mono: False
+[04/17/17 02:29:25] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 02:29:25] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:29:25] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:31:27] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 02:31:27] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 02:31:27] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 02:31:27] [Server API] Verbose: 	Mono: False
+[04/17/17 02:31:27] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 02:31:27] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:31:27] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:32:36] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 02:32:36] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 02:32:36] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 02:32:36] [Server API] Verbose: 	Mono: False
+[04/17/17 02:32:37] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 02:32:37] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:32:37] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:36:51] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 02:36:51] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 02:36:51] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 02:36:51] [Server API] Verbose: 	Mono: False
+[04/17/17 02:36:51] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 02:36:51] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:36:51] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:37:29] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 02:37:29] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 02:37:29] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 02:37:29] [Server API] Verbose: 	Mono: False
+[04/17/17 02:37:30] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 02:37:30] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:37:30] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:43:09] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 02:43:09] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 02:43:09] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 02:43:09] [Server API] Verbose: 	Mono: False
+[04/17/17 02:43:10] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 02:43:10] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 02:43:10] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
+[04/17/17 13:20:13] [Server API] Verbose: TerrariaApi - Server v2.0.0.0 started.
+[04/17/17 13:20:13] [Server API] Verbose: 	Command line: "Z:\Users\aaron\Documents\Visual Studio 2015\Projects\TShPlugin\TerrariaServer.exe" 
+[04/17/17 13:20:13] [Server API] Verbose: 	OS: Microsoft Windows NT 6.2.9200.0 (64bit: True)
+[04/17/17 13:20:13] [Server API] Verbose: 	Mono: False
+[04/17/17 13:20:14] [Server API] Info: Plugin TShock v4.3.23.0 (by The TShock Team) initiated.
+[04/17/17 13:20:14] [Server API] Info: Plugin Adverts v0.0.0.0 (by DaNike) initiated.
+[04/17/17 13:20:14] [Server API] Info: Plugin Death Wormholes v0.0.0.0 (by DaNike) initiated.
